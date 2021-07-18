@@ -2,7 +2,7 @@
     "name": "CMMK_BM43A_HSRGB",
     "vendorId": "0xFEED",
     "productId": "0x6061",
-    "lighting": "qmk_rgblight",
+    "lighting": "none",
     "matrix": {
         "rows": 4,
         "cols": 12
