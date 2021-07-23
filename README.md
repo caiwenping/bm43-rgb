@@ -1,6 +1,6 @@
-# bm43a-rgb
+# bm43rgb
 
-bm43a rgb版本
+bm43rgb版本
 
 qmk-vial支持
 
